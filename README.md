@@ -1,6 +1,6 @@
 # TravelThreads-Wanderlust - Your Ultimate Travel Blog 🌍✈️
 
-TravelThreads-WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
+TravelThreads-WanderLust is a simple MERN travel blog website ✈ The project is deployed using 10+ technologies and tools of cloud native technologies. Deployed and scaled an application for learning purposes, with other contributors. Thanks to @DevMadhup @krishnaacharyaa for the app. 
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 #
@@ -10,7 +10,7 @@ TravelThreads-WanderLust is a simple MERN travel blog website ✈ This project i
 ### In this demo, we will see how to deploy an end to end three tier MERN stack application on EKS cluster.
 #
 ### <mark>Project Deployment Flow:</mark>
-<img src="https://github.com/DevMadhup/Wanderlust-Mega-Project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
+<img src="https://github.com/Vaishnav88sk/TravelThreads-Wanderlust-project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
 
 #
 
