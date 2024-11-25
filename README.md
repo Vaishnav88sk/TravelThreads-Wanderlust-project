@@ -1,6 +1,6 @@
 # TravelThreads-Wanderlust - Your Ultimate Travel Blog 🌍✈️
 
-TravelThreads-WanderLust is a simple MERN travel blog website ✈ The project is deployed using 10+ technologies and tools of cloud native technologies. Deployed and scaled an application for learning purposes, with other contributors. Thanks to @DevMadhup @krishnaacharyaa for the app. 
+TravelThreads-WanderLust is a simple MERN travel blog website ✈ The project is deployed using 10+ technologies and tools of cloud native technologies. Deployed and scaled an application for learning purposes, with other contributors. Thanks to [Madhup Pandey](https://github.com/DevMadhup),[Krishna R Acharya](https://github.com/krishnaacharyaa) for the app. 
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 #
